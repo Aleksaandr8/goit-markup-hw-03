@@ -360,6 +360,7 @@ img {
 
 .logo-footer-studio {
   color: var(--secondary-text-color-theme-dark);
+  display: inline-block;
 }
 
 .footer-text {
