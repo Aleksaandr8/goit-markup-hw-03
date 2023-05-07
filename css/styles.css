@@ -73,7 +73,6 @@ img {
 }
 
 .logo-link-header {
-  padding: 24px 0 24px;
   font-family: var(--secondary-font);
   font-weight: 800;
   font-size: 18px;
@@ -98,14 +97,14 @@ img {
 }
 
 .menu {
+  padding-top: 24px;
+  padding-bottom: 24px;
   display: flex;
   align-items: center;
   gap: 40px;
 }
 
 .menu-item {
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .menu-link {
@@ -354,12 +353,10 @@ img {
   text-transform: uppercase;
   color: var(--logo-color);
   margin-bottom: 16px;
-  display: inline-block;
 }
 
 .logo-footer-studio {
   color: var(--secondary-text-color-theme-dark);
-  display: inline-block;
 }
 
 .footer-text {
