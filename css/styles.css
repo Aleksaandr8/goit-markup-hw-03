@@ -335,7 +335,6 @@ img {
 /* footer */
 
 .container-footer {
-  display: flex;
   align-items: stretch;
   flex-direction: column;
 }
